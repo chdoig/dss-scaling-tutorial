@@ -1,0 +1,10 @@
+name: dss-scaling
+channels:
+- bokeh
+dependencies:
+- python=3.5
+- pandas
+- dask
+- bokeh
+- datashader
+- jupyter
